@@ -1,0 +1,13 @@
+location,role,skills,count
+Bangalore,Data Scientist,"Python, SQL, Machine Learning",120
+Bangalore,ML Engineer,"Deep Learning, TensorFlow, Python",90
+Bangalore,Data Analyst,"Excel, PowerBI, SQL",75
+Hyderabad,Data Scientist,"Python, Cloud, NLP",100
+Hyderabad,ML Engineer,"Big Data, Spark, Python",80
+Hyderabad,Data Analyst,"Excel, SQL, Tableau",60
+Delhi,Data Scientist,"Python, Statistics, SQL",110
+Delhi,ML Engineer,"Cloud, MLOps, Python",70
+Delhi,Data Analyst,"Excel, SQL, Data Visualization",50
+Mumbai,Data Scientist,"Python, AI, ML",95
+Mumbai,ML Engineer,"TensorFlow, Cloud, Python",65
+Chennai,Data Scientist,"Python, Deep Learning, SQL",85

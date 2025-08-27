@@ -1,0 +1,19 @@
+
+Demo - Top per city:
+          city         skills  count
+3   bangalore         python      2
+0   bangalore            aws      1
+1   bangalore  deep learning      1
+5       delhi  communication      1
+6       delhi          excel      1
+7       delhi            sql      1
+8        pune         python      1
+9        pune            sql      1
+10       pune        tableau      1
+
+Demo - Top overall:
+    skills  count
+0  python      3
+1     sql      2
+2     aws      1
+Exported analysis to: demo_linkedin_skill_analysis.xlsx
